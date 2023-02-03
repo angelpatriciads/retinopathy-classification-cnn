@@ -40,7 +40,7 @@ Mrs. Devvi Sarwinda, S.Si., M.Kom.
 1. You can access the raw data [here](https://github.com/angelpatriciads/retinopathy-classification-cnn/blob/main/retinopathy_classification_cnn_dataset) within this repo.
 2. All of the scripts are being kept [here](https://github.com/angelpatriciads/retinopathy-classification-cnn/blob/main/retinopathy_classification_cnn.ipynb).
 
-
+ 
 ## Contributing Members
 |Name     |  Github Account   | 
 |---------|-----------------|
